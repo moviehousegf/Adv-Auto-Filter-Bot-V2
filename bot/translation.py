@@ -5,7 +5,8 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>I Am An Auto Filter Bot Made For @movieshub10
+<i>I Am An Auto Filter Bot Made For @movieshub10.
+I can be only used in my group so dont waste your time 🙃🙃
 </i>"""    
     
     HELP_TEXT = """
